@@ -1,11 +1,17 @@
-## Dépôt de cartes du Site Atelier Basse-Vallée de Durance
+# Dépôt de cartes du Site Atelier Basse-Vallée de Durance
 Vérifier le changelog et les dates de mise à jour des fichiers pour consulter les modifications.
 
-# Parcelles
+## Parcelles
 Les fichiers sont issus des fichiers originaux du NAS : Parcelles_suivies_ANNEE_corrige.xxx
 Ces fichiers n'ont pas été renommés.
 
 
-# OCSOL
+## OCSOL
+
+## Pratiques
+
+# Crédits
+
+Un grand merci à ... 
 
 
